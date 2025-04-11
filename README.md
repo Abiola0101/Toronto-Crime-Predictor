@@ -1,6 +1,6 @@
 # Crime Prediction and Explainability Model using Random Forest
 
-This project presents an end-to-end machine learning solution for predicting binary outcomes (e.g., crime classification) using a dataset structured similarly to the **IFSSA (Integrated Fire and Safety Services Agency)** dataset. It includes data preprocessing, model training using Random Forest, explainability via SHAP and LIME, and deployment with Flask. The solution is built to demonstrate the integration of machine learning into real-world decision-making workflows.
+This project presents an end-to-end machine learning solution for predicting binary outcomes (e.g., crime classification). It includes data preprocessing, model training using Random Forest, explainability via SHAP and LIME, and deployment with Flask. The solution is built to demonstrate the integration of machine learning into real-world decision-making workflows.
 
 ---
 
