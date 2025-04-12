@@ -6,7 +6,6 @@ This project presents an end-to-end machine learning solution for predicting bin
 
 ## Dataset Overview
 
-The dataset used mimics the structure and logic of the **IFSSA** dataset, which typically includes variables like:
 - **REPORT_MONTH**: Categorical time variable
 - **WEEKDAY**: Day of the week
 - **NEIGHBOURHOOD**, **INCIDENT**, etc.
